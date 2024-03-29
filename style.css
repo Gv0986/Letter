@@ -1,6 +1,6 @@
 :root{
   --primary: #fff;
-  --bg-color: #000000;
+  --bg-color: #7C00FF;
   --bg-envelope-color: #f5edd1;
   --envelope-tab: #ecdeb8;
   --envelope-cover: #e6cfa7;
@@ -55,10 +55,10 @@ body{
 }
 .envelope > .letter {
   position: absolute;
-  right: 20%;
+  right: 30%;
   bottom: 0;
-  width: 54%;
-  height: 80%;
+  width: 60%;
+  height: 95%;
   background: var(--primary);
   text-align: center;
   transition: all 1s ease-in-out;
