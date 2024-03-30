@@ -49,10 +49,10 @@ body{
   z-index: 2;
   width: 0px;
   height: 0px;
-  border-top: 130px solid transparent;
-  border-right: 150px solid var(--envelope-cover);
+  border-top: 150px solid transparent;
+  border-right: 170px solid var(--envelope-cover);
   border-bottom: 100px solid var(--envelope-cover);
-  border-left: 150px solid var(--envelope-cover);
+  border-left: 170px solid var(--envelope-cover);
 }
 .envelope > .letter {
   position: absolute;
