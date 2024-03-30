@@ -18,7 +18,7 @@ body{
   justify-content: center;
 }
 .container {
-  height: 130vh;
+  height: 140vh;
   display: grid;
   place-items: center;
 }
@@ -28,7 +28,7 @@ body{
 }
 .envelope-wrapper > .envelope {
   position: relative;
-  width: 300px;
+  width: 335px;
   height: 250px;
 }
 .envelope-wrapper > .envelope::before {
@@ -58,7 +58,7 @@ body{
   position: absolute;
   right: 20%;
   bottom: 0;
-  width: 54%;
+  width: 52%;
   height: 90%;
   background: var(--primary);
   text-align: center;
