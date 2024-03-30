@@ -36,7 +36,7 @@ body{
   position: absolute;
   top: 0;
   z-index: 2;
-  border-top: 150px solid var(--envelope-tab);
+  border-top: 160px solid var(--envelope-tab);
   border-right: 160px solid transparent;
   border-left: 160px solid transparent;
   border-bottom: 110px solid transparent;
