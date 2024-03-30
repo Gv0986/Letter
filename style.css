@@ -36,10 +36,10 @@ body{
   position: absolute;
   top: 0;
   z-index: 2;
-  border-top: 140px solid var(--envelope-tab);
-  border-right: 158px solid transparent;
-  border-left: 158px solid transparent;
-  border-bottom: 108px solid transparent;
+  border-top: 150px solid var(--envelope-tab);
+  border-right: 160px solid transparent;
+  border-left: 160px solid transparent;
+  border-bottom: 110px solid transparent;
   transform-origin: top;
   transition: all 0.5s ease-in-out 0.7s;
 }
